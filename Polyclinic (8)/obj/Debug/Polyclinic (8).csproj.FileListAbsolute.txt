@@ -1,0 +1,7 @@
+G:\TestDrive\TestDrive\Polyclinic (8)\bin\Debug\Polyclinic (8).exe.config
+G:\TestDrive\TestDrive\Polyclinic (8)\bin\Debug\Polyclinic (8).exe
+G:\TestDrive\TestDrive\Polyclinic (8)\bin\Debug\Polyclinic (8).pdb
+G:\TestDrive\TestDrive\Polyclinic (8)\obj\Debug\Polyclinic (8).csproj.CoreCompileInputs.cache
+G:\TestDrive\TestDrive\Polyclinic (8)\obj\Debug\Polyclinic (8).exe
+G:\TestDrive\TestDrive\Polyclinic (8)\obj\Debug\Polyclinic (8).pdb
+G:\TestDrive\TestDrive\Polyclinic (8)\obj\Debug\Polyclinic (8).csproj.AssemblyReference.cache

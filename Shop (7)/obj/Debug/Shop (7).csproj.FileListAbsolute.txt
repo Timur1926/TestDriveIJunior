@@ -1,0 +1,7 @@
+G:\TestDrive\TestDrive\Shop (7)\bin\Debug\Shop (7).exe.config
+G:\TestDrive\TestDrive\Shop (7)\bin\Debug\Shop (7).exe
+G:\TestDrive\TestDrive\Shop (7)\bin\Debug\Shop (7).pdb
+G:\TestDrive\TestDrive\Shop (7)\obj\Debug\Shop (7).csproj.AssemblyReference.cache
+G:\TestDrive\TestDrive\Shop (7)\obj\Debug\Shop (7).csproj.CoreCompileInputs.cache
+G:\TestDrive\TestDrive\Shop (7)\obj\Debug\Shop (7).exe
+G:\TestDrive\TestDrive\Shop (7)\obj\Debug\Shop (7).pdb

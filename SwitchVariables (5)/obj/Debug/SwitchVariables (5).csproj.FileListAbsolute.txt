@@ -1,0 +1,6 @@
+G:\TestDrive\TestDrive\SwitchVariables (5)\bin\Debug\SwitchVariables (5).exe.config
+G:\TestDrive\TestDrive\SwitchVariables (5)\bin\Debug\SwitchVariables (5).exe
+G:\TestDrive\TestDrive\SwitchVariables (5)\bin\Debug\SwitchVariables (5).pdb
+G:\TestDrive\TestDrive\SwitchVariables (5)\obj\Debug\SwitchVariables (5).csproj.CoreCompileInputs.cache
+G:\TestDrive\TestDrive\SwitchVariables (5)\obj\Debug\SwitchVariables (5).exe
+G:\TestDrive\TestDrive\SwitchVariables (5)\obj\Debug\SwitchVariables (5).pdb
