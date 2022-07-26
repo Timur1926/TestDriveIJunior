@@ -1,7 +1,0 @@
-G:\TestDrive\TestDrive\TestDrive\bin\Debug\TestDrive.exe.config
-G:\TestDrive\TestDrive\TestDrive\bin\Debug\TestDrive.exe
-G:\TestDrive\TestDrive\TestDrive\bin\Debug\TestDrive.pdb
-G:\TestDrive\TestDrive\TestDrive\obj\Debug\InstallVS (1).csproj.AssemblyReference.cache
-G:\TestDrive\TestDrive\TestDrive\obj\Debug\InstallVS (1).csproj.CoreCompileInputs.cache
-G:\TestDrive\TestDrive\TestDrive\obj\Debug\TestDrive.exe
-G:\TestDrive\TestDrive\TestDrive\obj\Debug\TestDrive.pdb
