@@ -9,8 +9,8 @@ class Program
         Console.WriteLine($"Так {playerName}, чем занимаешься?");
         string playerAction = Console.ReadLine();
         Console.WriteLine("Прикольно, кстати мне оч нужно узнать, кто твоя любимая девочка из DDLC?");
-        string playerFavoriteGirl = Console.ReadLine();
-        playerFavoriteGirl = playerFavoriteGirl.ToLower();
+        string playerFavoriteGirl = Console.ReadLine().ToLower();
+
         if (playerFavoriteGirl == "моника")
         {
             Console.WriteLine("Одобряю :)");
@@ -19,10 +19,12 @@ class Program
         {
             Console.WriteLine("Пон...");
         }
-        else {
+        else 
+        {
             Console.WriteLine("Такого персонажа нет, ну и ладно.");
             playerFavoriteGirl = "та которой нет :(";
         }
+
         Console.WriteLine($"Так если подводить итоги ты {playerName}, занимаешься этим \"{playerAction}\" и твоя любимая девочка из DDLC - это {playerFavoriteGirl}.");
         Console.ReadLine();
     }

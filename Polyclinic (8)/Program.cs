@@ -10,13 +10,14 @@ namespace Polyclinic__8_
     {
         static void Main(string[] args)
         {
-            int timeAtTheDoctor = 10;
-
+            int timeAtDoctor = 10;
+            int minutesInHour = 60;
             Console.Write("Введите количество старушек в старушек в очереди: ");
             int pensionersInLine = int.Parse(Console.ReadLine());
-            int waitingTimeInMinutes = (timeAtTheDoctor * pensionersInLine) % 60;
-            int waitingTimeInHours = (timeAtTheDoctor * pensionersInLine) / 60;
-            if (pensionersInLine < 6)
+            int waitingTimeInMinutes = (timeAtDoctor * pensionersInLine) % minutesInHour;
+            int waitingTimeInHours = (timeAtDoctor * pensionersInLine) / minutesInHour;
+
+            if (waitingTimeInHours == 1)
             {
                 Console.WriteLine($"Осталось ждать {waitingTimeInHours} час и {waitingTimeInMinutes} минут.");
             }
@@ -24,6 +25,7 @@ namespace Polyclinic__8_
             {
                 Console.WriteLine($"Осталось ждать {waitingTimeInHours} часов и {waitingTimeInMinutes} минут.");
             }
+
             Console.ReadLine();
 
         }
